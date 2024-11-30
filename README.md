@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebw12345
 
-- 👀 I’m interested in all things ULtrasonic Testint, Non-Destructive Evaluation, big data, AI, and ML.
+- 👀 I’m interested in all things Ultrasonic Testing, Non-Destructive Evaluation, big data, AI, and ML.
 - 💞️ I’m looking to collaborate with anyone about anything, just let me know what problem you want to solve! Contact me with a message 
       that breifs what you're interesting in doing.
       
